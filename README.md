@@ -1,2 +1,6 @@
-# coding
-a some projects.
+# Название проекта
+
+Описание проекта: просто бот в телеграме, для выявления заболеваний через ввод симптомов
+
+   ```bash
+   git clone https://github.com/IVYLEAGUE2026/coding.git
